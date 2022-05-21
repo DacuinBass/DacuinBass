@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DacuinBass
+- 👋 Hi, I’m @edcan-dev
 - 👀 I’m interested in programing and play the bass
-- 🌱 I’m currently learning Java and SQL
-- 💞️ I’m looking to collaborate on DataBase Projects
-- 📫 How to reach me @dacuinbass on IG
+- 🌱 I’m currently learning Frontend Development
+- 💞️ I’m looking to collaborate on DataBase Local Startups
+- CONTACT ON BIO
 
 <!---
 DacuinBass/DacuinBass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
