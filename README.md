@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @edcan-dev
-- 👀 I’m interested in programing and play the bass
-- 🌱 I’m currently learning Frontend Development
-- 💞️ I’m looking to collaborate on DataBase Local Startups
-- CONTACT ON BIO
+- I’m studying Computational Systems Engineering 
+- I’m currently learning Frontend Development
+
+- HTML, CSS, JS
+- Currently learning Bootstrap and React
 
 <!---
 DacuinBass/DacuinBass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
