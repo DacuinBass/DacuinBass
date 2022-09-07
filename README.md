@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @edcan-dev
 - I’m studying Computational Systems Engineering 
-- I’m currently learning Frontend Development
+- I’m currently learning Backend Development
 
 - HTML, CSS, JS
-- Currently learning Bootstrap and React
+- Currently learning Node and React
 
 <!---
 DacuinBass/DacuinBass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
