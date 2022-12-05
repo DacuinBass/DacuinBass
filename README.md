@@ -3,6 +3,7 @@
 - I’m currently learning Backend Development
 
 - HTML, CSS, JS
+- Node.js and Express.js framework
 - Currently learning Node and React
 
 <!---
