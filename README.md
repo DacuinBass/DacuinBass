@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @edcan-dev
-- I’m studying Computational Systems Engineering 
-- I’m currently learning Backend Development
+- I’m @edcan-dev, Edgar Israel Cano -
 
-- HTML, CSS, JS
-- Node.js and Express.js framework
-- Currently learning Spring Framework and Backend Development
+Passionate of software development, self-taught student experienced on web applications development and cloud solutions with a Microsoft Certification on Azure Fundamentals. 
+Currently studying the last semesters of Computer Systems Engineering major, and seeking for an internship opportunity to start my professional career.
+Enthusiast of constant learning about good practices and clean code, in addition with Agile working methodologies.
 
-<!---
-DacuinBass/DacuinBass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Java
+- Spring Boot
+- Spring Framework
+- Node.js
+- Express.js
+- JavaScript
+- HTML & CSS
+- Python
+- SQL
+- MongoDB
+- OOP
+- Microsoft Azure
+- API RESTful
+- Docker
+- Git
