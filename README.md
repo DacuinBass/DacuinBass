@@ -1,4 +1,4 @@
-- I’m @edcan-dev, Edgar Israel Cano -
+## Hi! I’m @edcan-dev, Edgar Israel Cano
 
 Passionate of software development, self-taught student experienced on web applications development and cloud solutions with a Microsoft Certification on Azure Fundamentals. 
 Currently studying the last semesters of Computer Systems Engineering major, and seeking for an internship opportunity to start my professional career.
